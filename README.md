@@ -32,5 +32,4 @@ This project is a collection of real-world SQL challenges designed to extract ac
 ## 🗂️ Tools & Technologies
 
 - **MySQL**
-- **DB Browser for SQLite** / Any SQL IDE
 - **Codebasics SQL Case Study Dataset**
